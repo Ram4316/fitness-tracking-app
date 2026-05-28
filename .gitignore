@@ -1,0 +1,9 @@
+server/node_modules/
+server/.env
+server/.env.*
+mobile/.env
+mobile/.env.*
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
